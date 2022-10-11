@@ -15,3 +15,4 @@
 ## Navigation:
 - [Mafia Automatic Allocation](https://github.com/SlavyaNochka/mafia-allocation)
 - [Wireless Connections labs](https://github.com/SlavyaNochka/wireless_connections)
+- [Console card game] (https://github.com/SlavyaNochka/basic_card_game)
