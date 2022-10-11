@@ -13,3 +13,4 @@
 - Telegram: @SlavyaNochka83
 
 ## Navigation:
+- [Mafia automatic allocation](https://github.com/SlavyaNochka/mafia-allocation)
