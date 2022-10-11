@@ -1,16 +1,15 @@
-### Hi there 👋
+# Main information
 
-<!--
-**SlavyaNochka/SlavyaNochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technology stack:
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+- 👋 My name is Kulakov Viktor, I am an IT-student. Here I am repseneted under nickname SlavyaNochka.
+- 👀 My sphere of contribution includes pure coding, database development, project support and creating wireless connections.
+- 🌱 Currently upgrading my Python coding skills and searching for job.
+- 📫 My contacts:
+- E-mail: vit260900@mail.ru
+- Telegram: @SlavyaNochka83
+
+## Navigation:
