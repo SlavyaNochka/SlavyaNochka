@@ -16,3 +16,4 @@
 - [Mafia Automatic Allocation](https://github.com/SlavyaNochka/mafia-allocation)
 - [Wireless Connections labs](https://github.com/SlavyaNochka/wireless_connections)
 - [Console Card Game](https://github.com/SlavyaNochka/basic_card_game)
+- [Python BigData Research](https://github.com/SlavyaNochka/big_data_python)
