@@ -7,7 +7,7 @@
 ## About me:
 - 👋 My name is Kulakov Viktor, I am an IT-student. Here I am repseneted under nickname SlavyaNochka.
 - 👀 My sphere of contribution includes pure coding, database development, project support and creating wireless connections.
-- 🌱 Currently upgrading my Python coding skills and searching for job.
+- 🌱 Currently upgrading my Python coding skills and working on Python-based project that provides mafia judjes an easy way to create allocation and store game information.
 - 📫 My contacts:
 - E-mail: vit260900@mail.ru
 - Telegram: @SlavyaNochka83
