@@ -14,3 +14,4 @@
 
 ## Navigation:
 - [Mafia automatic allocation](https://github.com/SlavyaNochka/mafia-allocation)
+- [Wireless Connections labs](https://github.com/SlavyaNochka/wireless_connections)
