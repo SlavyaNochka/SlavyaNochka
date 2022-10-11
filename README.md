@@ -13,5 +13,5 @@
 - Telegram: @SlavyaNochka83
 
 ## Navigation:
-- [Mafia automatic allocation](https://github.com/SlavyaNochka/mafia-allocation)
+- [Mafia Automatic Allocation](https://github.com/SlavyaNochka/mafia-allocation)
 - [Wireless Connections labs](https://github.com/SlavyaNochka/wireless_connections)
