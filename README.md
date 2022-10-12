@@ -14,7 +14,7 @@
 - 🛩️ Telegram: @SlavyaNochka83
 
 ## 🧭 Navigation:
-- [Mafia Automatic Allocation](https://github.com/SlavyaNochka/mafia-allocation)
+- [Mafia Automatic Allocation](https://github.com/SlavyaNochka/mafia_allocation)
 - [Python BigData Research](https://github.com/SlavyaNochka/big_data_python)
 - [Electronic Signature](https://github.com/SlavyaNochka/electronic_signature)
 - [Wireless Connections Labs](https://github.com/SlavyaNochka/wireless_connections)
